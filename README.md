@@ -60,17 +60,6 @@ Track your academic performance, calculate your GPA, and manage your courses wit
 
 That's it! No installation or build process is required.
 
-### Deploy with GitHub Pages
-
-1. Push the project files to your GitHub repository.
-2. Open **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**.
-4. Choose the `main` branch and the `/ (root)` folder.
-5. Click **Save**.
-6. Wait for deployment, then visit:
-
-   `https://icyr4zo.github.io/ptit-grade-tracker/`
-
 ## 📖 How to Use
 
 1. Enter the name of a course.
