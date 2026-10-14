@@ -1,14 +1,12 @@
+
 # 🎓 PTIT Grade Tracker
 
 **A simple, responsive grade tracking web app for PTIT students.**
 
-Track your academic performance, calculate your GPA, and manage your courses in one place — with a clean interface and a sleek dark mode design.
+🔗 **[Live Demo](https://icyr4zo.github.io/PTIT-Grade-Tracker/)**
 
-🔗 **Live Demo:** [PTIT Grade Tracker](https://icyr4zo.github.io/ptit-grade-tracker/)
+Track your academic performance, calculate your GPA, and manage your courses with a sleek dark mode interface.
 
-> 📌 An independent student project built for educational purposes. This is not an official PTIT website.
-
----
 
 ## ✨ Features
 
