@@ -4,7 +4,7 @@
 
 Track your academic performance, calculate your GPA, and manage your courses in one place — with a clean interface and a sleek dark mode design.
 
-🔗 **Live Demo:** [PTIT Grade Tracker](https://YOUR-USERNAME.github.io/ptit-grade-tracker/)
+🔗 **Live Demo:** [PTIT Grade Tracker](https://icyr4zo.github.io/ptit-grade-tracker/)
 
 > 📌 An independent student project built for educational purposes. This is not an official PTIT website.
 
@@ -45,7 +45,7 @@ Track your academic performance, calculate your GPA, and manage your courses in 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ptit-grade-tracker.git
+   git clone https://github.com/icyr4zo/ptit-grade-tracker.git
    ```
 
 2. Open the project folder:
@@ -67,7 +67,7 @@ That's it! No installation or build process is required.
 5. Click **Save**.
 6. Wait for deployment, then visit:
 
-   `https://YOUR-USERNAME.github.io/ptit-grade-tracker/`
+   `https://icyr4zo.github.io/ptit-grade-tracker/`
 
 ## 📖 How to Use
 
