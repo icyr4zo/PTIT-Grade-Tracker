@@ -1,26 +1,122 @@
-# PTIT Grade Tracker Mini
+# 🎓 PTIT Grade Tracker
 
-Website cá nhân nhỏ để nhập điểm môn học và ước tính GPA. Đây là project độc lập lấy cảm hứng từ ý tưởng quản lý điểm; không phải website chính thức của PTIT.
+**A simple, responsive grade tracking web app for PTIT students.**
 
-## Tính năng
-- Thêm môn học, số tín chỉ và điểm hệ 10.
-- Tính điểm trung bình hệ 10 và GPA ước tính hệ 4 theo tín chỉ.
-- Xóa từng môn hoặc xóa toàn bộ danh sách.
-- Lưu dữ liệu bằng localStorage trên trình duyệt.
-- Giao diện responsive cho máy tính và điện thoại.
+Track your academic performance, calculate your GPA, and manage your courses in one place — with a clean interface and a sleek dark mode design.
 
-## Công nghệ
-HTML, CSS, JavaScript thuần, localStorage, GitHub Pages.
+🔗 **Live Demo:** [PTIT Grade Tracker](https://YOUR-USERNAME.github.io/ptit-grade-tracker/)
 
-## Chạy trên máy
-Tải repository về và mở `index.html` bằng trình duyệt hiện đại. Không cần cài thư viện hoặc backend.
+> 📌 An independent student project built for educational purposes. This is not an official PTIT website.
 
-## Đưa lên GitHub Pages
-1. Đưa các file này lên thư mục gốc của repository.
-2. Vào **Settings → Pages**.
-3. Chọn **Deploy from a branch**.
-4. Chọn branch `main`, thư mục `/ (root)` rồi Save.
-5. Đợi GitHub triển khai website.
+---
 
-## Lưu ý
-Bảng quy đổi điểm hệ 10 sang hệ 4 chỉ là ví dụ minh họa. Hãy kiểm tra quy định học vụ chính thức trước khi dùng cho kế hoạch học tập quan trọng. Dữ liệu chỉ lưu trong trình duyệt; xóa dữ liệu trình duyệt có thể làm mất danh sách.
+## ✨ Features
+
+- 📊 **GPA Calculator** — Calculate credit-weighted GPA on a 4.0 scale.
+- 📝 **Grade Tracking** — Enter and manage course grades on either a 10-point or 4.0 scale.
+- 🎯 **Weighted Average** — Calculate your average grade based on course credits.
+- 📚 **Course Management** — Add courses, specify credits, and remove individual courses.
+- 💾 **Local Data Storage** — Save your course information in your browser using `localStorage`.
+- 🌙 **Dark Mode UI** — A modern dark interface designed for comfortable viewing.
+- 📱 **Responsive Design** — Use the app on desktop and mobile devices.
+- ⚡ **Lightweight & Fast** — Built with vanilla HTML, CSS, and JavaScript. No framework required.
+
+## 🖥️ Preview
+
+> Add a screenshot of your application here to showcase the interface.
+
+<!-- Replace the placeholder below with your actual screenshot -->
+<!-- ![PTIT Grade Tracker Preview](screenshots/preview.png) -->
+
+## 🛠️ Built With
+
+| Technology | Purpose |
+|---|---|
+| 🌐 HTML5 | Page structure |
+| 🎨 CSS3 | Styling, dark theme, and responsive layout |
+| ⚙️ JavaScript | Grade calculations and course management |
+| 💾 LocalStorage | Persisting data in the browser |
+| 🚀 GitHub Pages | Free static website hosting |
+
+## 🚀 Getting Started
+
+### Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/ptit-grade-tracker.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd ptit-grade-tracker
+   ```
+
+3. Open `index.html` in your browser.
+
+That's it! No installation or build process is required.
+
+### Deploy with GitHub Pages
+
+1. Push the project files to your GitHub repository.
+2. Open **Settings → Pages**.
+3. Under **Build and deployment**, select **Deploy from a branch**.
+4. Choose the `main` branch and the `/ (root)` folder.
+5. Click **Save**.
+6. Wait for deployment, then visit:
+
+   `https://YOUR-USERNAME.github.io/ptit-grade-tracker/`
+
+## 📖 How to Use
+
+1. Enter the name of a course.
+2. Specify the number of credits.
+3. Choose the grading scale: **4.0** or **10-point**.
+4. Enter your grade and click **+ Thêm môn**.
+5. Review your GPA, weighted average, total courses, and total credits.
+6. Remove individual courses or clear the list when needed.
+
+## 📐 Grade Calculation
+
+- **GPA (4.0 scale):** Calculated using course credits as weights.
+- **Average grade (10-point scale):** Calculated using course credits as weights.
+- **Grade conversion:** When a grade is entered on the 4.0 scale, the equivalent 10-point grade is estimated using illustrative conversion thresholds.
+
+⚠️ Grade conversion is an estimate for reference only. Actual grading and conversion rules may vary by course or institution. Please consult the applicable PTIT regulations for official results.
+
+## 🔒 Privacy
+
+- Course data is stored locally in your browser using `localStorage`.
+- The application does not send your grades to a backend server.
+- Data is specific to the browser and device where it was entered.
+- Clearing browser data may remove saved course information.
+
+## 🗺️ Roadmap
+
+Potential improvements for future versions:
+
+- [ ] 📤 Export and import course data
+- [ ] 📈 GPA progress visualization
+- [ ] 🎨 Additional themes and interface customization
+- [ ] 📱 Further mobile UI improvements
+
+## 🤝 Contributing
+
+Suggestions, bug reports, and improvements are welcome!
+
+1. Fork this repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Open a pull request.
+
+## 👨‍💻 Author
+
+**Tuan Kiet**
+
+Made with ❤️ for students who want to keep track of their academic progress.
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
