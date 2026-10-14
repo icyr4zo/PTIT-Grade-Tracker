@@ -19,7 +19,6 @@ Track your academic performance, calculate your GPA, and manage your courses wit
 - 📱 **Responsive Design** — Use the app on desktop and mobile devices.
 - ⚡ **Lightweight & Fast** — Built with vanilla HTML, CSS, and JavaScript. No framework required.
 
-## 🖥️ Preview
 
 ## 🖥️ Preview
 
