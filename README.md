@@ -24,9 +24,8 @@ Track your academic performance, calculate your GPA, and manage your courses in 
 ## 🖥️ Preview
 
 > Add a screenshot of your application here to showcase the interface.
-
-<!-- Replace the placeholder below with your actual screenshot -->
-<!-- ![PTIT Grade Tracker Preview](screenshots/preview.png) -->
+ 
+[PTIT Grade Tracker Preview](screenshots/preview.png) 
 
 ## 🛠️ Built With
 
